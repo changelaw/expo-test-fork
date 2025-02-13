@@ -6,9 +6,9 @@ export default function Index() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>
-        Home 
-        <Icons.SparklesIcon color='blue' /> 
-        screen
+        Home
+        <Icons.SparklesIcon color='blue' />
+        screen from CC
       </Text>
       <Icons.ArchiveBoxIcon color='red' />
       <Link href="/about" style={styles.button}>
